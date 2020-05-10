@@ -5,5 +5,8 @@
 [node name="testScene" type="ColorRect"]
 anchor_right = 1.0
 anchor_bottom = 1.0
-color = Color( 0.984314, 0.839216, 0.0588235, 1 )
+color = Color( 0.443137, 0.121569, 0.588235, 1 )
 script = ExtResource( 1 )
+__meta__ = {
+"_edit_use_anchors_": false
+}

@@ -1,0 +1,4 @@
+#Sun May 10 02:55:33 BRT 2020
+base.0=D\:\\Avell\\Projects\\Godot\\TCC\\Godot\\PLComUno\\PLComUno\\android\\build\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
