@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://testScene.gd" type="Script" id=1]
+
+[node name="testScene" type="ColorRect"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+color = Color( 0.984314, 0.839216, 0.0588235, 1 )
+script = ExtResource( 1 )
