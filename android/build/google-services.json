@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276682339021",
+    "firebase_url": "https://godot-unoonline-2ecbc.firebaseio.com",
+    "project_id": "godot-unoonline-2ecbc",
+    "storage_bucket": "godot-unoonline-2ecbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276682339021:android:82d1a6402d672b619e2f84",
+        "android_client_info": {
+          "package_name": "br.com.lsc.godotunonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276682339021-vrf9sjviracir54fl4sbdo2p2dok02dg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5_h1mLKxidFWQxsaljcMp49vymiZW90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276682339021-vrf9sjviracir54fl4sbdo2p2dok02dg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
